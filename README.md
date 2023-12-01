@@ -1,5 +1,7 @@
 # Análise de Dados para Loja de Açaí
 
+![2023-12-01 10-19-04](https://github.com/GleisonAmorim/Analise_dados_Python/assets/54336609/3121cb51-57f0-48bf-b1ab-0a5d7db61a30)
+
 Neste projeto, um analista de dados foi encarregado de realizar uma análise profunda para uma loja de açaí. O código em Python abrange diversos conceitos e técnicas avançadas para explorar e entender os dados relevantes.
 
 ## Lista de Pessoas:
